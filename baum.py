@@ -75,3 +75,4 @@ if __name__ == "__main__":
         print("Na, jetzt kann Weihnachten ja kommen!")
     else:
         print("Das hat Boty leider nicht verstanden.")
+        print("Schau doch mal auf unserem Github vorbei: https://github.com/baumwohlkaum/weihnachtsbaum")
